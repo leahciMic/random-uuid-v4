@@ -1,6 +1,6 @@
 {
-  "name": "uuid-v4",
-  "version": "0.0.1",
+  "name": "random-uuid-v4",
+  "version": "0.0.2",
   "description": "A lightweight version 4 UUID generator.",
   "main": "uuidv4.js",
   "scripts": {
