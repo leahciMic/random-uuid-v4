@@ -8,7 +8,7 @@ Thanks [broofa](http://stackoverflow.com/users/109538/broofa)!
 # Usage
 
 ```js
-var uuid = require('uuid-v4');
+var uuid = require('random-uuid-v4');
 var uuidv4 = uuid();
 ```
 
