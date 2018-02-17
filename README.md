@@ -1,4 +1,8 @@
-# uuid-v4
+# random-uuid-v4
+
+```sh
+npm i random-uuid-v4
+```
 
 A lightweight version 4 UUID generator. The code was originally taken from a
 [stackoverflow answer](http://stackoverflow.com/questions/105034/how-to-create-a-guid-uuid-in-javascript)
