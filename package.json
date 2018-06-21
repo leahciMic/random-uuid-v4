@@ -1,10 +1,10 @@
 {
   "name": "random-uuid-v4",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A lightweight version 4 UUID generator.",
   "main": "uuidv4.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jest"
   },
   "license": "Unlicense",
   "repository": {
@@ -19,5 +19,8 @@
   "author": "Michael Leaney",
   "bugs": {
     "url": "https://github.com/leahciMic/uuid-v4/issues"
+  },
+  "dependencies": {
+    "jest": "^23.1.0"
   }
 }

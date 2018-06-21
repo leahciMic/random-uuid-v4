@@ -1,5 +1,7 @@
 # random-uuid-v4
 
+[![Build Status](https://travis-ci.org/leahciMic/random-uuid-v4.svg?branch=master)](https://travis-ci.org/leahciMic/random-uuid-v4)
+
 ```sh
 npm i random-uuid-v4
 ```
@@ -17,7 +19,10 @@ var uuidv4 = uuid();
 ```
 
 # Changelog
-
+* 0.0.7 - Fix package name
+        - Updated contributors
+        - Use Jest
+        - Travis badge
 * 0.0.5 - Fix invalid uuids
         - Add test
 
@@ -25,3 +30,5 @@ var uuidv4 = uuid();
 
 * [leahciMic](https://github.com/leahciMic)
 * [ArtskydJ](https://github.com/ArtskydJ)
+* [TehShrike](https://github.com/TehShrike)
+* [saibotsivad](https://github.com/saibotsivad)
