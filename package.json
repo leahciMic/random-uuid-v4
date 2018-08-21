@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/leahciMic/uuid-v4/issues"
   },
-  "dependencies": {
+  "devDependencies": {
     "jest": "^23.1.0"
   }
 }
