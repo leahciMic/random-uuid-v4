@@ -19,6 +19,7 @@ var uuidv4 = uuid();
 ```
 
 # Changelog
+* 0.0.8 - Make jest a dev dependency
 * 0.0.7 - Fix package name
         - Updated contributors
         - Use Jest
