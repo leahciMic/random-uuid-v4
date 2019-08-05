@@ -21,6 +21,6 @@
     "url": "https://github.com/leahciMic/uuid-v4/issues"
   },
   "devDependencies": {
-    "jest": "^23.1.0"
+    "jest": "^24.8.0"
   }
 }
